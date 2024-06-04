@@ -4,7 +4,6 @@ import com.codeborne.selenide.*;
 import io.cucumber.java.en.And;
 import org.assertj.core.api.Assertions;
 import org.openqa.selenium.Keys;
-import org.openqa.selenium.devtools.v120.overlay.model.LineStyle;
 
 import java.util.ArrayList;
 import java.util.List;
